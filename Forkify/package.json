@@ -1,0 +1,21 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "Recipe application",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Nargis diya",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.16.3",
+    "parcel": "^2.16.3",
+    "sass": "^1.97.2"
+  },
+  "dependencies": {
+    "core-js": "^3.47.0",
+    "fracty": "^1.0.12",
+    "regenerator-runtime": "^0.14.1"
+  }
+}
